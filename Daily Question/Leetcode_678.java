@@ -44,6 +44,7 @@ public class Leetcode_678 {
     }
     public static void main(String[] args) {
         String s = "(*))";
+        
         System.out.println(checkValidString(s));
     }
 }
