@@ -65,7 +65,7 @@ public class Leetcode_950 {
         return deck;
     }
     public static void main(String[] args) {
-        int[] deck = {17,13,11,2,3,5,7};
+        int[] deck = {17,13,11,2,3};
         deck = deckRevealedIncreasing(deck);
         for (int i = 0; i < deck.length; i++) {
             System.out.print(deck[i] + " ");
