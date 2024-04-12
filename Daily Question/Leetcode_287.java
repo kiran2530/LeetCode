@@ -35,7 +35,7 @@ public class Leetcode_287 {
         return -1;
     }
     public static void main(String[] args) {
-        int[] nums = {1,3,4,2,2};
+        int[] nums = {3,1,3,4,2};
         System.out.println(findDuplicate(nums));
     }
 }
