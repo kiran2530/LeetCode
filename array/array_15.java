@@ -22,7 +22,6 @@ public class array_15 {
         return list;
     }
     public static void main(String[] args) {
-        ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         int[] a = {-1,0,1,2,-1,-4};
         System.out.println(threeSum(a));
     }
