@@ -48,6 +48,7 @@ public class _22_07_24_leetcode_2418 {
         return sortNames;
     }
     public static void main(String[] args) {
+        
         String[] names = {"Mary","John","Emma"};
         int[] heights = {180,165,170};
 
