@@ -30,7 +30,7 @@
         1 <= heighti <= 1000
 */
 
-public class _31_07_24 {
+public class _31_07_24_leetcode_1105 {
     private static int solveMemo(int[][] books, int idx, int width, int height, int[][] dp, int shelfWidth) {
         // Base case
         if (idx == books.length) {
