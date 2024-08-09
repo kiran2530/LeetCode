@@ -55,7 +55,7 @@ public class _09_08_24_leetcode_840 {
 
     public static int numMagicSquaresInside(int[][] grid) {
         int rowLength = grid.length, colLength = grid[0].length;
-        if(rowLength < 3 || colLength < 3 || (rowLength == 3 && colLength == 3))
+        if(rowLength < 3 || colLength < 3 )
             return 0;
         
         int magicSquares = 0;
