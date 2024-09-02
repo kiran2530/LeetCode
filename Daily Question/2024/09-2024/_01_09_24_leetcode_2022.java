@@ -31,7 +31,7 @@
         1 <= original[i] <= 10^5
         1 <= m, n <= 4 * 10^4
  */
-public class _01_08_24_leetcode_2022 {
+public class _01_09_24_leetcode_2022 {
     public static int[][] construct2DArray(int[] original, int m, int n) {
         int[][] result = new int[m][n];
     
