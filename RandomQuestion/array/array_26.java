@@ -1,3 +1,4 @@
+package RandomQuestion.array;
 public class array_26 {
     public static int removeDuplicates(int[] nums) {
         int count = 0;

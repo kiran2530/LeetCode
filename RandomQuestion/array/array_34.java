@@ -1,3 +1,4 @@
+package RandomQuestion.array;
 public class array_34 {
     public static int[] searchRange(int[] nums, int target) {
         int[] result = {-1,-1};
